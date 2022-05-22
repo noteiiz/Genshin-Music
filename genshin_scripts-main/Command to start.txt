@@ -1,0 +1,2 @@
+cd D:\CreaterZone\Genshin_scripts\genshin_scripts-main
+python .\midi.py
